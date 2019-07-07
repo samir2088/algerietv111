@@ -64,10 +64,10 @@
 				]
 			},
 			{
-				"title": "Foot 24",
+				"title": "El-Heddaf TV",
 				"provider": "youtube",
 				"arguments": [
-					"UCuPDFRItTEn34XWqAcdCgNg",
+					"UCKOIWjRq0F6sxbzq-CSY4Rg",
 					"channel"
 
 				]
@@ -274,7 +274,7 @@
  {
 		"title": "رابط 1 مباشر",
 		"drawable": "",
-		"submenu": "شاهد مباشر",
+		"submenu": "كأس إفريقيا",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
@@ -324,20 +324,20 @@
 		}]
 	},
  {
-		"title": "الوطنية 1",
+		"title": "canal-algerie",
 		"drawable": "",
-		"submenu": "قنوات أخرى ",
+		"submenu": "قنوات مفتوحة ",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://tunisie360.net/tv-tunisienne/wataniya-1"
+				"https://playtv.fr/television/canal-algerie/"
 			]
 		}]
 	},
  {
-		"title": "الوطنية 2",
+		"title": "El-Heddaf TV",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
@@ -345,7 +345,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://tunisie360.net/tv-tunisienne/wataniya-2"
+				"http://dz-replay.com/live-tv-algerie/el-heddaf-tv-direct/"
 			]
 		}]
 	},
