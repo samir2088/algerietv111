@@ -684,3 +684,17 @@
 	    ]
 		}
 	,
+ {
+		"title": "A propos",
+		"drawable": "",
+		"submenu": "autres",
+		"iap": false,
+		"tabs": [{
+			"title": "",
+			"provider": "custom",
+			"arguments": [
+				"com.tv.algerieee.repalyy.SettingsFragment", "fragment"
+			]
+		}]
+	}
+]
