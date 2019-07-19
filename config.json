@@ -1,1 +1,701 @@
+[{
+		"title": "Tv Algérie",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [
+
+			{
+				"title": "Ennahar tv",
+				"provider": "youtube",
+				"arguments": [
+					"UC57OCoLoU6zAtBdJOmwg2vA",
+					"channel"
+
+				]
+			},
+			
+
+			{
+				"title": "EchoroukTV",
+				"provider": "youtube",
+				"arguments": [
+					"UCd9ox6D3VbhNp3kJNTxQzCQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "El Djazairia One",
+				"provider": "youtube",
+				"arguments": [
+					"UCZX_vgW4txoI-AHhxg1ef_A",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Echorouk Plus",
+				"provider": "youtube",
+				"arguments": [
+					"UCmTDhubkwcq20x9CuXyKhfg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "ELBILAD TV",
+				"provider": "youtube",
+				"arguments": [
+					"UCfF6CkUvCBleM19CkgNyrYw",
+					"channel"
+
+				]
+			},
+			
+			
+		  {
+				"title": "NumidiaTV",
+				"provider": "youtube",
+				"arguments": [
+					"UCZvLExKiOeUjbwAocZ7UVxg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "El-Heddaf TV",
+				"provider": "youtube",
+				"arguments": [
+					"UCKOIWjRq0F6sxbzq-CSY4Rg",
+					"channel"
+
+				]
+			},
+			
+			{
+        "title":"Dzaïr TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCD7bJZnXmxpOy3ZL-kIgy_A",
+          "channel"
+
+        ]
+     }
+	    ,
+			{
+				"title": "Canal Algérie",
+				"provider": "youtube",
+				"arguments": [
+					"UCShOIepd16caAKmnqjX_7Cg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "قناة المغاربية",
+				"provider": "youtube",
+				"arguments": [
+					"UCwKS2U-DwjPZZvM6mSXPKgA",
+					"channel"
+
+				]
+			},
+			{
+				"title": "football boss",
+				"provider": "youtube",
+				"arguments": [
+					"UCmpaP5sOoAysK02F6cJrPpg",
+					"channel"
+
+				]
+			},{
+				"title": "The GodFootball",
+				"provider": "youtube",
+				"arguments": [
+					"UCv3pLbsL7YtjugU4ZIXqg7Q",
+					"channel"
+
+				]
+			},{
+				"title": "Sky Football",
+				"provider": "youtube",
+				"arguments": [
+					"UCuPDFRItTEn34XWqAcdCgNg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Be sport Tv",
+				"provider": "youtube",
+				"arguments": [
+					"UCFzNxaxHBurA4w9hTsXNxHg",
+					"channel"
+
+				]
+			}, 
+			{
+				"title": "الدّوري الفرنسي",
+				"provider": "youtube",
+				"arguments": [
+					"UCQsH5XtIc9hONE1BQjucM0g",
+					"channel"
+
+				]
+			},
+					
+      {
+				"title": "الدوري المصري",
+				"provider": "youtube",
+				"arguments": [
+					"UCB36jBOj5L5YcwUGj82rOCQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "On Sport",
+				"provider": "youtube",
+				"arguments": [
+					"UCjnz9C7WcEpiwbNv_ACxzjQ",
+					"channel"
+
+				]
+			},
+{
+				"title": "الدوري المغربي ",
+				"provider": "youtube",
+				"arguments": [
+					"UCEKdxDkET7eUg6kaY5Q4Njg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Maroc sport",
+				"provider": "youtube",
+				"arguments": [
+					"UCTtpwRadkDzQtmQb9hu2o9w",
+					"channel"
+
+				]
+			},
+{
+				"title": "الدوري الجزائري",
+				"provider": "youtube",
+				"arguments": [
+					"UCnDDEjh0Ert0l-smpCq9yGw",
+					"channel"
+
+				]
+			},
+			{
+				"title": "System Dz",
+				"provider": "youtube",
+				"arguments": [
+					"UCHfMP69i2J9bpXBGklXiTiw",
+					"channel"
+
+				]
+},
+			
+{
+				"title": "ELMehdi TV",
+				"provider": "youtube",
+				"arguments": [
+					"UCE7DWbUZyZhm_ke4tI1qRxg",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Show Tube",
+				"provider": "youtube",
+				"arguments": [
+					"UCZxtE6hefVI5dSX19K4eiSQ",
+					"channel"
+
+				]
+			},
+{
+				"title": "FootballMinds",
+				"provider": "youtube",
+				"arguments": [
+					"UCTdML4t_wl59_3WoWg8jTlQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Football Legion",
+				"provider": "youtube",
+				"arguments": [
+					"UCwwKf9PggWRo6pkigs74MDA",
+					"channel"
+
+				]
+			},
+
+			{
+				"title": "اولتراس تيوب",
+				"provider": "youtube",
+				"arguments": [
+					"UCHfhwuaO2bAAAr2x-QVn3nQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "ElKaweer",
+				"provider": "youtube",
+				"arguments": [
+					"UCvRbdoDaIeiY6umPJg1L0KA",
+					"channel"
+
+
+		]
+},
+			{
+				"title": "كورة وبس ",
+				"provider": "youtube",
+				"arguments": [
+					"UCmkU2u5YjpJjPc0MoHhA6sg",
+					"channel"
+
+				]
+			}
+
+		]
+	},
+
+			
+ 
+ {
+		"title": "رابط 1 مباشر",
+		"drawable": "",
+		"submenu": "كأس إفريقيا",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://kora-online.tv/"
+			]
+		}]
+	},
+ {
+		"title": "رابط 2 مباشر",
+		"drawable": "",
+		"submenu": " ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.as-koora.com/?fbclid=IwAR0QbdP3-9ygfmS9Fxmz5cbRGZ4OLSnz7BcBE7ZhmsJwtPeT2C3f9uWIihM"
+			]
+		}]
+	},
+ {
+		"title": "رابط 3 مباشر",
+		"drawable": "",
+		"submenu": "جودة عالية ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.kooora2day.com/"
+			]
+		}]
+	},
+ {
+		"title": "رابط 4 مباشر",
+		"drawable": "",
+		"submenu": " تغطية لجلّ المباريات ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.kora-star.tv/"
+			]
+		}]
+	},
+ {
+		"title": "canal-algerie",
+		"drawable": "",
+		"submenu": "قنوات مفتوحة ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://playtv.fr/television/canal-algerie/"
+			]
+		}]
+	},
+ {
+		"title": "El-Heddaf TV",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://dz-replay.com/live-tv-algerie/el-heddaf-tv-direct/"
+			]
+		}]
+	},
+ {
+		"title": "On Sport ",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://egytal2a.com/2018/10/on-sport-hd.html"
+			]
+		}]
+	},
+ {
+		"title": "الجزيرة",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://tunisie360.net/tv-tunisienne/al-jazeera"
+			]
+		}]
+	},
+ {
+		"title": "France 24",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://tunisie360.net/tv-tunisienne/france-24-arabe"
+			]
+		}]
+	},
+ 
+ {
+		"title": "TF1",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.firstonetv.live/Live/France/TF1-28"
+			]
+		}]
+	},
+
+	{
+		"title": "Club",
+		"drawable": "",
+		"submenu": "Site official",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.est.org.tn/est.php"
+			]
+		}]
+	},
+ {
+		"title": "Foot",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.est.org.tn/actualites_disc/1/start#"
+			]
+		}]
+	},
+ {
+		"title": "Hand",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://handball.est.org.tn/"
+			]
+		}]
+	},
+ {
+		"title": "Volley",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://volleyball.est.org.tn/#"
+			]
+		}]
+	},
+ {
+		"title": "Video",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.est.org.tn/taraji-tv.php"
+			]
+		}]
+	},
+ {
+		"title": "Page Facebook",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://web.facebook.com/EsperanceSportivedeTunis/"
+			]
+		}]
+	},
+ 
+
+{
+		"title": "E-S-Tunis.com",
+		"drawable": "",
+		"submenu": "منتديات أخرى",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://e-s-tunis.com/ar"
+			]
+		}]
+	},
+ {
+		"title": "Esperance-de-tunis.net",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.esperance-de-tunis.net/"
+			]
+		}]
+	},
+ {
+		"title": "tuniscope.com",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.tuniscope.com/"
+			]
+		}]
+	},
+ {
+		"title": "المباريات الأوروبية والإفريقية",
+		"drawable": "",
+		"submenu": "مشاهدة مباشرة",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://www.kooora2day.com/"
+			]
+		}]
+	},
+ {
+     "title":" TV REPLAYS",
+    "drawable":"",
+    "submenu":"الاعادات (جميع القنوات)",
+    "iap":false,
+    "tabs":[
+	           
+	 {
+        "title":"Mosaique FM",
+        "provider":"youtube",
+        "arguments":[
+          "UC6y8T-vG9SeQ-FKOCt_o8MA",
+          "channel"
+
+        ]
+     }
+	    ,
+	    	 {
+        "title":"IFM",
+        "provider":"youtube",
+        "arguments":[
+          "UCvPW0VhnTcxYjWIxCvMlw2Q",
+          "channel"
+
+        ]
+     }
+	    ,
+     {
+        "title":"الوطنية Replays",
+        "provider":"youtube",
+        "arguments":[
+          "UCdvWVsmQBROkgcGzVep73oA",
+          "channel"
+
+        ]
+     }
+	    ,
+	 {
+        "title":"2 الوطنية",
+        "provider":"youtube",
+        "arguments":[
+          "UCJW9gatYczI191TunQxMGbA",
+          "channel"
+
+        ]
+     }
+	        ,
+	 {
+        "title":"الحوار التونسي",
+        "provider":"youtube",
+        "arguments":[
+          "UCXzmMkXaHxMVlutDBD8goHA",
+          "channel"
+
+        ]
+     }
+	          ,
+	 {
+        "title":"Nessma TV",
+        "provider":"youtube",
+        "arguments":[
+          "UC-48PCT3flS86JkLzxlTA9g",
+          "channel"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"Hannibal TV",
+        "provider":"youtube",
+        "arguments":[
+          "UCW7MhIFzZtsVe7ud36PvNeA",
+          "channel"
+
+        ]
+     }
+	      ,
+	 {
+        "title":"الجزيرة",
+        "provider":"youtube",
+        "arguments":[
+          "UCfiwzLy-8yKzIbsmZTzxDgw",
+          "channel"
+
+        ]
+     }
+	          ,
+	 {
+        "title":"France 24",
+        "provider":"youtube",
+        "arguments":[
+          "UCdTyuXgmJkG_O8_75eqej-w",
+          "channel"
+
+        ]
+     }
+	         ,
+	 {
+        "title":"CNEWS FR",
+        "provider":"youtube",
+        "arguments":[
+          "UCXKJrYczY2_fJEZgFPGY0HQ",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"France 24 FR",
+        "provider":"youtube",
+        "arguments":[
+          "UCCCPCZNChQdGa9EkATeye4g",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"BFMTV",
+        "provider":"youtube",
+        "arguments":[
+          "UCXwDLMDV86ldKoFVc_g8P0g",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"DOCUMENTAIRE",
+        "provider":"youtube",
+        "arguments":[
+          "UCbXTtVr-7Esg1Z2m1nsGu4Q",
+          "channel"
+
+        ]
+     }
+	           ,
+	 {
+        "title":"AlArabiya قناة العربية ",
+        "provider":"youtube",
+        "arguments":[
+          "UCahpxixMCwoANAftn6IxkTg",
+          "channel"
+
+        ]
+     }
+	    ]
+		}
+	,
+ {
+		"title": "A propos",
+		"drawable": "",
+		"submenu": "autres",
+		"iap": false,
+		"tabs": [{
+			"title": "",
+			"provider": "custom",
+			"arguments": [
+				"com.tv.algerieee.repalyy.SettingsFragment", "fragment"
+			]
+		}]
+	}
+]
 
