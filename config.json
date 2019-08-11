@@ -324,7 +324,7 @@
 		}]
 	},
  {
-		"title": "canal-algerie",
+		"title": "Canal-algerie",
 		"drawable": "",
 		"submenu": "قنوات مفتوحة ",
 		"iap": false,
@@ -333,6 +333,19 @@
 			"provider": "webview",
 			"arguments": [
 				"https://playtv.fr/television/canal-algerie/"
+			]
+		}]
+	},
+  {
+		"title": "Numidia Tv",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.tamtammaghreb.com/numidia-tv.html"
 			]
 		}]
 	},
@@ -349,8 +362,10 @@
 			]
 		}]
 	},
+
+ 
  {
-		"title": "On Sport ",
+		"title": "My Comedy",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
@@ -358,11 +373,37 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://egytal2a.com/2018/10/on-sport-hd.html"
+				"http://www.centraltv.fr/accueilv7/mycomedy"
+			]
+		}]
+	},
+  {
+		"title": "Algérie 4 Tamazight",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.babalweb.net/television/ALGERIE4-regarder-algerie-4-tamazight-en-direct.html"
 			]
 		}]
 	},
  {
+		"title": "France 24",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.okbob.net/2014/08/regardez-watch-echourouk-tv-2-algerie-en-direct-live-2.html"
+			]
+		}]
+	},
+  {
 		"title": "الجزيرة",
 		"drawable": "",
 		"submenu": "",
@@ -388,9 +429,8 @@
 			]
 		}]
 	},
- 
  {
-		"title": "My Comedy",
+		"title": "On Sport ",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
@@ -398,7 +438,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://www.centraltv.fr/accueilv7/mycomedy"
+				"http://egytal2a.com/2018/10/on-sport-hd.html"
 			]
 		}]
 	},
