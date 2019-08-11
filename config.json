@@ -274,7 +274,7 @@
  {
 		"title": "رابط 1 مباشر",
 		"drawable": "",
-		"submenu": "كأس إفريقيا",
+		"submenu": "كرة القدم",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
@@ -320,6 +320,32 @@
 			"provider": "webview",
 			"arguments": [
 				"http://www.kora-star.tv/"
+			]
+		}]
+	},
+ {
+		"title": "Ennahar tv live ",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.okbob.net/article-regardez-ennahar-tv-algerie-102770280.html"
+			]
+		}]
+	},
+ {
+		"title": "Echorouk TV",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.okbob.net/2014/08/regardez-watch-echourouk-tv-2-algerie-en-direct-live-2.html?fbclid=IwAR0Lvi-8HBlzBRsAZbznxAA-sVP0t2PBnFwPH7ZxmkqqkE4YqbljhlIcHQE"
 			]
 		}]
 	},
@@ -416,19 +442,7 @@
 			]
 		}]
 	},
- {
-		"title": "France 24",
-		"drawable": "",
-		"submenu": "",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"https://tunisie360.net/tv-tunisienne/france-24-arabe"
-			]
-		}]
-	},
+
  {
 		"title": "On Sport ",
 		"drawable": "",
@@ -442,8 +456,9 @@
 			]
 		}]
 	},
-  {
-		"title": "Numidia Tv",
+ 
+ {
+		"title": "On Sport ",
 		"drawable": "",
 		"submenu": "",
 		"iap": false,
@@ -451,7 +466,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://www.tamtammaghreb.com/numidia-tv.html"
+				"http://egytal2a.com/2018/10/on-sport-hd.html"
 			]
 		}]
 	},
