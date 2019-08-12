@@ -552,11 +552,11 @@
     "drawable":"",
     "submenu":"RADIO LIVE",
     "iap":false,
-    "tabs"😞
+    "tabs": [
       {
         "title":"",
         "provider":"stream",
-        "arguments"😞
+        "arguments": [
           "http://ch1.ice.infomaniak.ch//ch1-64.aac"
         ]
       }
@@ -568,11 +568,11 @@
     "drawable":"",
     "submenu":"RADIO LIVE",
     "iap":false,
-    "tabs"😞
+    "tabs": [
       {
         "title":"",
         "provider":"stream",
-        "arguments"😞
+        "arguments": [
    "http://ch2.ice.infomaniak.ch//ch2-64.aac"
 		]
       }
@@ -585,11 +585,11 @@
     "drawable":"",
     "submenu":"RADIO LIVE",
     "iap":false,
-    "tabs"😞
+    "tabs":[
       {
         "title":"",
         "provider":"stream",
-        "arguments"😞
+        "arguments":[
           "http://ch3.ice.infomaniak.ch/ch3-64.aac"
         ]
       }
