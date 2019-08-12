@@ -586,7 +586,6 @@
     "submenu":"RADIO LIVE",
     "iap":false,
     "tabs": [
-      {
         "title":"stream",
         "provider":"stream",
         "arguments": [
@@ -630,6 +629,7 @@
 	  ]
 	  }
 	    ,
+      
  {
 		"title": "رابط 1 مباشر",
 		"drawable": "",
