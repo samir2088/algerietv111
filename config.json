@@ -326,13 +326,13 @@
  {
 		"title": "Ennahar tv live ",
 		"drawable": "",
-		"submenu": "",
+		"submenu": "بث مباشر",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://www.okbob.net/article-regardez-ennahar-tv-algerie-102770280.html"
+				"http://www.1arablive.com/livetv/single-channel/30/ennahar-tv"
 			]
 		}]
 	},
@@ -345,24 +345,37 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://www.okbob.net/2014/08/regardez-watch-echourouk-tv-2-algerie-en-direct-live-2.html?fbclid=IwAR0Lvi-8HBlzBRsAZbznxAA-sVP0t2PBnFwPH7ZxmkqqkE4YqbljhlIcHQE"
+				"http://www.1arablive.com/livetv/single-channel/31/echourouk-tv"
 			]
 		}]
 	},
  {
-		"title": "Canal-algerie",
+		"title": "Echorouk Plus",
 		"drawable": "",
-		"submenu": "قنوات مفتوحة ",
+		"submenu": "",
 		"iap": false,
 		"tabs": [{
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"https://playtv.fr/television/canal-algerie/"
+				"http://www.1arablive.com/livetv/single-channel/32/cbc-benna-tv"
 			]
 		}]
 	},
-  {
+ {
+		"title": "Echorouk NEWS",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/33/echorouk-news"
+			]
+		}]
+	},
+ {
 		"title": "Numidia Tv",
 		"drawable": "",
 		"submenu": "",
@@ -375,6 +388,138 @@
 			]
 		}]
 	},
+ {
+		"title": "Samira TV ",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://dz-replay.com/samira-tv/"
+			]
+		}]
+	},
+ {
+		"title": "CHAMS TV",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/724/chams-tv"
+			]
+		}]
+	},
+ {
+		"title": "EL HAYAT TV",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/661/el-hayat-tv"
+			]
+		}]
+	},
+ {
+		"title": "EL FADJR TV",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/388/al-fadjer-tv"
+			]
+		}]
+	},
+ {
+		"title": "BAHIA TV",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/302/bahia-tv"
+			]
+		}]
+	},
+ {
+		"title": "El Djazairia One",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/23/el-djazairia-one"
+			]
+		}]
+	},
+
+ {
+		"title": "EL BILAD",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/22/el-bilad-tv"
+			]
+		}]
+	},
+ {
+		"title": "Beur TV",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/29/beur-tv"
+			]
+		}]
+	},
+ {
+		"title": "Algérie 5 Coran",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"http://www.1arablive.com/livetv/single-channel/21/algerie-5-coran"
+			]
+		}]
+	},
+ {
+		"title": "Canal-algerie",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://playtv.fr/television/canal-algerie/"
+			]
+		}]
+	},
+  
  {
 		"title": "El-Heddaf TV",
 		"drawable": "",
@@ -439,20 +584,6 @@
 			"provider": "webview",
 			"arguments": [
 				"https://tunisie360.net/tv-tunisienne/al-jazeera"
-			]
-		}]
-	},
-
- {
-		"title": "On Sport ",
-		"drawable": "",
-		"submenu": "",
-		"iap": false,
-		"tabs": [{
-			"title": "webview",
-			"provider": "webview",
-			"arguments": [
-				"http://egytal2a.com/2018/10/on-sport-hd.html"
 			]
 		}]
 	},
