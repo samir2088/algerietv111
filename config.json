@@ -102,90 +102,91 @@
 				]
 			},
 			{
-				"title": "football boss",
+				"title": "Samira tv ",
 				"provider": "youtube",
 				"arguments": [
-					"UCmpaP5sOoAysK02F6cJrPpg",
+					"UCmALBegTZvVvQaSDoHLKxlA",
 					"channel"
 
 				]
 			},{
-				"title": "The GodFootball",
+				"title": "El Hayat TV",
 				"provider": "youtube",
 				"arguments": [
-					"UCv3pLbsL7YtjugU4ZIXqg7Q",
-					"channel"
-
-				]
-			},{
-				"title": "Sky Football",
-				"provider": "youtube",
-				"arguments": [
-					"UCuPDFRItTEn34XWqAcdCgNg",
+					"UCfOU7pvD66X5yVTNIbOhILw",
 					"channel"
 
 				]
 			},
 			{
-				"title": "Be sport Tv",
+				"title": "El Fadjer TV",
 				"provider": "youtube",
 				"arguments": [
-					"UCFzNxaxHBurA4w9hTsXNxHg",
+					"UCeBvxdpIZJrV6wfoXAZn5xw",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Bahia tv dz",
+				"provider": "youtube",
+				"arguments": [
+					"UCVPYxRwABBUNabpB5-5-fBQ",
 					"channel"
 
 				]
 			}, 
 			{
-				"title": "الدّوري الفرنسي",
+				"title": "Beur tv",
 				"provider": "youtube",
 				"arguments": [
-					"UCQsH5XtIc9hONE1BQjucM0g",
+					"UCAy5nPrbVk_jxcQJyKnP81Q",
 					"channel"
 
 				]
 			},
 					
       {
-				"title": "الدوري المصري",
+				"title": "La Troisieme chaine",
 				"provider": "youtube",
 				"arguments": [
-					"UCB36jBOj5L5YcwUGj82rOCQ",
+					"UCozHZC0Q0fcU8OjraVLA4FQ",
 					"channel"
 
 				]
 			},
 			{
-				"title": "On Sport",
+				"title": "AlHadath الحدث",
 				"provider": "youtube",
 				"arguments": [
-					"UCjnz9C7WcEpiwbNv_ACxzjQ",
+					"UCrj5BGAhtWxDfqbza9T9hqA",
 					"channel"
 
 				]
 			},
 {
-				"title": "الدوري المغربي ",
+				"title": "فرانس 24 ",
 				"provider": "youtube",
 				"arguments": [
-					"UCEKdxDkET7eUg6kaY5Q4Njg",
+					"UCdTyuXgmJkG_O8_75eqej-w",
 					"channel"
 
 				]
 			},
 			{
-				"title": "Maroc sport",
+				"title": "قناة الجزيرة",
 				"provider": "youtube",
 				"arguments": [
-					"UCTtpwRadkDzQtmQb9hu2o9w",
+					"UCfiwzLy-8yKzIbsmZTzxDgw",
 					"channel"
 
 				]
 			},
 {
-				"title": "الدوري الجزائري",
+				"title": "العربية",
 				"provider": "youtube",
 				"arguments": [
-					"UCnDDEjh0Ert0l-smpCq9yGw",
+					"UCahpxixMCwoANAftn6IxkTg",
 					"channel"
 
 				]
