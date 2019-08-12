@@ -547,6 +547,39 @@
 			]
 		}]
 	},
+ [{
+		"title": "Radio live",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [
+			{
+				"title": "Football Legion",
+				"provider": "stream",
+				"arguments": [
+					"UCwwKf9PggWRo6pkigs74MDA",
+					"stream"
+
+				]
+			},
+			{
+				"title": "Football Legion",
+				"provider": "stream",
+				"arguments": [
+					"UCwwKf9PggWRo6pkigs74MDA",
+					"stream"
+
+				]
+			},
+			{
+				"title": "Football Legion",
+				"provider": "stream",
+				"arguments": [
+					"UCwwKf9PggWRo6pkigs74MDA",
+					"stream"
+
+				]
+			},
   {
         "title":"Radio chaine 1",
     "drawable":"",
@@ -554,7 +587,7 @@
     "iap":false,
     "tabs": [
       {
-        "title":"",
+        "title":"stream",
         "provider":"stream",
         "arguments": [
           "http://ch1.ice.infomaniak.ch//ch1-64.aac"
@@ -563,6 +596,7 @@
 	  ]
 	  }
 	    ,
+ 
 	{
         "title":"Radio chaine 2",
     "drawable":"",
@@ -570,7 +604,7 @@
     "iap":false,
     "tabs": [
       {
-        "title":"",
+        "title":"stream",
         "provider":"stream",
         "arguments": [
    "http://ch2.ice.infomaniak.ch//ch2-64.aac"
@@ -587,7 +621,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"",
+        "title":"stream",
         "provider":"stream",
         "arguments":[
           "http://ch3.ice.infomaniak.ch/ch3-64.aac"
