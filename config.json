@@ -598,58 +598,7 @@
 				"http://www.kora-star.tv/"
 			]
 		}]
-	},
- {
-        "title":"Radio chaine 1",
-    "drawable":"",
-    "submenu":"RADIO LIVE",
-    "iap":false,
-    "tabs"😞
-      {
-        "title":"Radio chaine 1",
-        "provider":"stream",
-        "arguments"😞
-          "http://ch1.ice.infomaniak.ch//ch1-64.aac"
-        ]
-      }
-	  ]
-	  }
-	    ,
-	{
-        "title":"Radio chaine 2",
-    "drawable":"",
-    "submenu":"RADIO LIVE",
-    "iap":false,
-    "tabs"😞
-      {
-        "title":"Radio chaine 2",
-        "provider":"stream",
-        "arguments"😞
-   "http://ch2.ice.infomaniak.ch//ch2-64.aac"
-		]
-      }
-	  ]
-	  }
-	    ,
-	
-	{
-        "title":"Radio chaine 3",
-    "drawable":"",
-    "submenu":"RADIO LIVE",
-    "iap":false,
-    "tabs"😞
-      {
-        "title":"Radio chaine 3",
-        "provider":"stream",
-        "arguments"😞
-          "http://ch3.ice.infomaniak.ch/ch3-64.aac"
-        ]
-      }
-	  ]
-	  }
-	    ,
-
-	
+	},	
  {
 		"title": "A propos",
 		"drawable": "",
